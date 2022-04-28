@@ -42,7 +42,7 @@
 - ​	[Verbos 	Irregulares](https://www.wizard.com.br/idiomas/tabela-de-verbos-irregulares-em-ingles/)
 - ​	[Exercícios](https://cursodeingles.online/)
 - ​	[Inglês 	com Música](https://lyricstraining.com/)
-- ​	[Livros 	para Leitura](https://publicliterature.org/)
+- ​	[Livros 	para Leitura](https://manybooks.net/)
 
 
 
