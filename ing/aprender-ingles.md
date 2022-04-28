@@ -62,5 +62,5 @@
 - [Cambly](https://www.cambly.com/courses/?lang=pt)
 - [Duolinguo](https://pt.duolingo.com/)
 - [Busuu](https://www.busuu.com/pt)
--  [Omeglee](https://www.omegle.com/)
+- [Omegle](https://www.omegle.com/)
 - [Tandem](https://www.tandem.net/pt-br)
