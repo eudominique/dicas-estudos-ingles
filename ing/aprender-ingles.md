@@ -36,7 +36,7 @@
 
 **:pencil: MATERIAIS PARA ESTUDO:**
 
-- ​	[Frases](https://engoo.com.br/app/materials/en)
+- ​	[Comunicação](https://engoo.com.br/app/materials/en)
 - ​	[Vocabulário 	I](https://www.inglesonline.com.br/vocabulario-em-ingles/)
 - ​	[Vocabulário 	II](https://aulasdeinglesgratis.net/lista-de-vocabulario-em-ingles/)
 - ​	[Verbos 	Irregulares](https://www.wizard.com.br/idiomas/tabela-de-verbos-irregulares-em-ingles/)
