@@ -1,8 +1,8 @@
-***GUIA DE ESTUDOS DA LÍNGUA INGLESA*** :books:
+**GUIA DE ESTUDOS DA LÍNGUA INGLESA** :books:
 
 
 
-**:pencil: CONTEÚDOS:**
+**:calendar: CONTEÚDO PROGRAMÁTICO:**
 
 - ​	**Artigos:** definido e indefinido
 - ​	**Substantivos:** gênero, singular e plural, composto, contável e incontável e forma possessiva
@@ -34,7 +34,7 @@
 
 
 
-**:pencil2: MATERIAIS:**
+**:pencil: MATERIAIS PARA ESTUDO:**
 
 - ​	[Frases](https://engoo.com.br/app/materials/en)
 - ​	[Vocabulário 	I](https://www.inglesonline.com.br/vocabulario-em-ingles/)
@@ -46,18 +46,21 @@
 
 
 
-**:speech_balloon: CANAIS:**
+
+
+ :play_or_pause_button: **CANAIS:**
 
 - ​	[SmallAdvantage](https://www.youtube.com/c/SmallAdvantages)
 - ​	[Carina 	Fragozo](https://www.youtube.com/c/CarinaFragozo)
 
 
 
-**:speaking_head: PRATICAR COM NATIVOS:**
-
-- ​	[Cambly](https://www.cambly.com/courses/?lang=pt)
-- ​	[Duolinguo](https://pt.duolingo.com/)
-- ​	[Busuu](https://www.busuu.com/pt)
 
 
+**:speech_balloon: PRATICAR COM NATIVOS:**
 
+- [Cambly](https://www.cambly.com/courses/?lang=pt)
+- [Duolinguo](https://pt.duolingo.com/)
+- [Busuu](https://www.busuu.com/pt)
+-  [Omeglee](https://www.omegle.com/)
+- [Tandem](https://www.tandem.net/pt-br)
