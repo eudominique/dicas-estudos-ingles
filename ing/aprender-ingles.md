@@ -50,7 +50,7 @@
 
  :play_or_pause_button: **CANAIS:**
 
-- ​	[SmallAdvantage](https://www.youtube.com/c/SmallAdvantages)
+- ​	[SmallAdvantages](https://www.youtube.com/c/SmallAdvantages)
 - ​	[Carina 	Fragozo](https://www.youtube.com/c/CarinaFragozo)
 
 
